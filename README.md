@@ -5,7 +5,13 @@
 Take a look at description YouTube video click the picture below or click the link here [https://www.youtube.com/watch?v=p5afJRlpyuM]
 
 
-[![](https://img.youtube.com/vi/p5afJRlpyuM/0.jpg)](https://www.youtube.com/watch?v=p5afJRlpyuM)
+<div align="center">
+  <div align="center">
+  <a href="https://youtu.be/p5afJRlpyuM" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/p5afJRlpyuM/maxresdefault.jpg" alt="YouTube Video" width="800" />
+  </a>
+</div>
+</div>
 
 
 # you need to do
